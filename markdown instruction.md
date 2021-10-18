@@ -12,6 +12,10 @@
 
 ## Работа с изображениями
 
+Чтобы вставить изображение в текст, нужно поставить следующее:
+
+![Привет, это корги](nBkSUhL2hFQmncmwL76BrNOp2Z318Ji-miDHnvyDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=DuEKGyzMcLXDjjbxhxLt6Q.jpg)
+
 ## Ссылки
 
 ## Работа с таблицами
